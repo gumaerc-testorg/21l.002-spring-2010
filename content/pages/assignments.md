@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments along with
+  sample student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ AUTHOR
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-The Value of Friendship ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn01))
+The Value of Friendship ({{% resource_link 503d3300-9d63-a91e-e337-ca8fd60cb3df "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Courtesy of Meredith Brown. Used with permission.
@@ -41,7 +43,7 @@ Courtesy of Meredith Brown. Used with permission.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-The Duality of Don Quixote's Character as shown through his Attitude towards Dulcinea of El Toboso ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn02))
+The Duality of Don Quixote's Character as shown through his Attitude towards Dulcinea of El Toboso ({{% resource_link 15eb6502-b3cc-4f57-7383-c6b4a18589ec "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Courtesy of Jordan Wirfs-Brock. Used with permission.
@@ -50,7 +52,7 @@ Courtesy of Jordan Wirfs-Brock. Used with permission.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Moliere's _The Misanthrope_: Masking the Truth ([PDF]({{< baseurl >}}/resources/mit21l_002s10_assn03))
+Moliere's _The Misanthrope_: Masking the Truth ({{% resource_link d9170fdd-ab2f-645d-29c1-b51688389485 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Courtesy of Anne Yu. Used with permission.
