@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and the schedule of lecture topics and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c65d2d5b-40d8-7624-be37-745705116ce7
 ---
